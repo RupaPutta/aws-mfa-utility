@@ -18,7 +18,7 @@ from awsmfa.util import log_error_and_exit, prompter
 
 logger = logging.getLogger('aws-mfa')
 
-AWS_CREDS_PATH = '%s/.aws/credentials.txt' % (os.path.expanduser('~'),)
+AWS_CREDS_PATH = '%s/.aws/credentials' % (os.path.expanduser('~'),)
 
 
 def main():
