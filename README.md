@@ -1,5 +1,4 @@
 # aws-mfa-utility
-Manage AWS MFA Security Credentials
 
 **Project Title:** To Manage AWS Multi-Factor Authentication Security Credentials
 
@@ -19,6 +18,8 @@ _"In many scenarios, you don't need long-term access keys that never expire (as 
 * Secret access key
 
 **Group Name:** Course Project Spring 2023
+
+**Professor:**  Dr. Jun Wang
 
 **Team Members:**
 * Sri Sowmya Rupa Putta
