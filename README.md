@@ -28,7 +28,7 @@ _"In many scenarios, you don't need long-term access keys that never expire (as 
 * Angel Nakkala
 
 **Video:**
-[video.mp4](video%2Fvideo.mp4)
+[aws-mfa-utility-video.mp4](video%2Faws-mfa-utility-video.mp4)
 
 **Installation:**
 ```text
