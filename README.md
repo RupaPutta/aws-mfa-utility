@@ -8,6 +8,8 @@
 
 _"In many scenarios, you don't need long-term access keys that never expire (as you have when you create access keys for an IAM user). Instead, you can create IAM roles and generate temporary security credentials. Temporary security credentials include an access key ID and a secret access key, but they also include a security token that indicates when the credentials expire. After they expire, they're no longer valid."_
 
+**Project Status:** Active
+
 **Tech Stack Required to build this project:**
 * GitHub
 * Python
